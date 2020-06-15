@@ -1,0 +1,12 @@
+{
+  "DomainType": "Classification",
+  "Platform": "TensorFlow",
+  "Flavor": "TensorFlowJs",
+  "ExporterVersion": "2.0",
+  "ExportedDate": "2020-06-13T16:46:52.1480617Z",
+  "IterationId": "64dd0c80-0825-4957-9441-98ffcbf4b379",
+  "ModelFileName": "model.zip",
+  "LabelFileName": "labels.txt",
+  "ModelFileSHA1": "d59b82b2f034043c21f6e536fb7f502e3e54bf71",
+  "SchemaVersion": "1.0"
+}
